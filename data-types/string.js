@@ -3,4 +3,6 @@ const pavarde = 'Mituzas';
 
 const fullName = vardas + ' '+ pavarde;
 
-console.log(fullName);
+const asEsu = `Mano vardas yra ${vardas}, o pavarde ${pavarde}.`;
+
+console.log(asEsu);
