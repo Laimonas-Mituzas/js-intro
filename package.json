@@ -7,6 +7,7 @@
     "boolean": "node --watch ./data-types/boolean.js",
     "methods:string": "node --watch ./methods/string.js",
     "number": "node --watch ./data-types/numbers.js",
+    "string": "node --watch ./data-types/string.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "test2": "echo \"Error: no Test 2 specified\" && exit 2",
     "test3": "echo \"Error: no Test 3 specified\" && exit 3"
