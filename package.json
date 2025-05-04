@@ -4,6 +4,7 @@
   "description": "Mokomes git'o, npm run ...",
   "main": "index.js",
   "scripts": {
+    "function": "node --watch ./functions/function.js",
     "boolean": "node --watch ./data-types/boolean.js",
     "methods:string": "node --watch ./methods/string.js",
     "number": "node --watch ./data-types/numbers.js",
