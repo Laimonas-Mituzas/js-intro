@@ -1,7 +1,7 @@
 {
   "name": "js-intro",
   "version": "1.0.0",
-  "description": "Mokomes git'o",
+  "description": "Mokomes git'o, npm run ...",
   "main": "index.js",
   "scripts": {
     "boolean": "node --watch ./data-types/boolean.js",
